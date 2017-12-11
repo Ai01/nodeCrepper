@@ -1,0 +1,22 @@
+{
+  "name": "nodecreeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ai01/nodeCrepper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ai01/nodeCrepper/issues"
+  },
+  "homepage": "https://github.com/Ai01/nodeCrepper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
